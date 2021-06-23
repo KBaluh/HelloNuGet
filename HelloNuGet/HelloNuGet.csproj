@@ -6,6 +6,7 @@
     <Authors>Kostya.Balukh</Authors>
     <PackageId>KBaluh.HelloNuGet</PackageId>
     <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
 </Project>
