@@ -6,7 +6,8 @@ namespace HelloNuGet.Client
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            IHelloNuGet hello = new DefaultHelloNuGet();
+            Console.WriteLine(hello.GetHello());
         }
     }
 }
