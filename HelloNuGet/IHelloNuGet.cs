@@ -1,5 +1,8 @@
 ﻿namespace HelloNuGet
 {
+    /// <summary>
+    /// Interface for greeting
+    /// </summary>
     public interface IHelloNuGet
     {
         /// <summary>
