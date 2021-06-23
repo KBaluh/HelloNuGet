@@ -2,6 +2,9 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.1</TargetFramework>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <Authors>KBaluh</Authors>
+    <Company>KEnterprise</Company>
   </PropertyGroup>
 
 </Project>
